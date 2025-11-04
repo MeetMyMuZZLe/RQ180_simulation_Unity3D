@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 63a886b91f01afb48b15ea76829d480b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - shooter: {instanceID: 0}
+  - projectilerb: {instanceID: 0}
+  - launch_sound: {instanceID: 0}
+  - thrust_sound: {instanceID: 0}
+  - smoke_obj: {instanceID: 0}
+  - smoke: {instanceID: 0}
+  - smoke_position: {instanceID: 0}
+  - destroy_effect: {fileID: 4868538168526089871, guid: 7bcf29c8fbb433f4cbc27a4ae6ac2b79, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

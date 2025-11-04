@@ -1,0 +1,11 @@
+Model Information:
+* title:	CHINESE ZBD-09
+* source:	https://sketchfab.com/3d-models/chinese-zbd-09-5f6ffcc36cd74e59ba7097c7a27ddd2f
+* author:	MartusMartus7878 (https://sketchfab.com/MartusMartus7878)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CHINESE ZBD-09" (https://sketchfab.com/3d-models/chinese-zbd-09-5f6ffcc36cd74e59ba7097c7a27ddd2f) by MartusMartus7878 (https://sketchfab.com/MartusMartus7878) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
